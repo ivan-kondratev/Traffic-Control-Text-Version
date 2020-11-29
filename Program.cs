@@ -9,7 +9,7 @@ namespace Traffic_Control_Text_Version
         {
             Game game = new Game();
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
